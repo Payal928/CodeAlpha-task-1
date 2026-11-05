@@ -1,0 +1,83 @@
+
+[
+    {
+        "question": "How can I place an order?",
+        "answer": "To place an order, browse our products, select the item you want, add it to your cart, and proceed to checkout."
+    },
+    {
+        "question": "How can I cancel my order?",
+        "answer": "You can cancel your order from the My Orders section before it is shipped."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "Go to the My Orders section and click on Track Order to check your delivery status."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept credit cards, debit cards, UPI, net banking, and cash on delivery where available."
+    },
+    {
+        "question": "Is cash on delivery available?",
+        "answer": "Yes, cash on delivery is available for selected locations and products."
+    },
+    {
+        "question": "How can I return a product?",
+        "answer": "Visit the My Orders section, select your product, and click on Return Item. Follow the instructions to complete your return request."
+    },
+    {
+        "question": "How long does a refund take?",
+        "answer": "Refunds generally take 5 to 7 business days after the returned product is approved."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team through email or the Help and Support section on our website."
+    },
+    {
+        "question": "What is the delivery time?",
+        "answer": "Standard delivery usually takes 3 to 7 business days depending on your location."
+    },
+    {
+        "question": "Can I change my delivery address?",
+        "answer": "You can update your delivery address before the order is shipped by visiting your order details."
+    },
+    {
+        "question": "How do I create an account?",
+        "answer": "Click on the Sign Up option, enter your name, email address, and password, and complete the registration process."
+    },
+    {
+        "question": "I forgot my password. What should I do?",
+        "answer": "Click on Forgot Password on the login page. Enter your registered email address and follow the password reset instructions."
+    },
+    {
+        "question": "Are my online payments secure?",
+        "answer": "Yes, payments are processed through secure payment gateways to protect your payment information."
+    },
+    {
+        "question": "Can I exchange a product?",
+        "answer": "Yes, eligible products can be exchanged according to our exchange policy."
+    },
+    {
+        "question": "What happens if I receive a damaged product?",
+        "answer": "If you receive a damaged product, contact customer support and submit a return or replacement request with product photographs."
+    },
+    {
+        "question": "Do you provide free delivery?",
+        "answer": "Free delivery may be available on selected orders depending on the order value and delivery location."
+    },
+    {
+        "question": "How can I update my profile?",
+        "answer": "Log in to your account, open the My Profile section, and update your personal information."
+    },
+    {
+        "question": "Can I order without creating an account?",
+        "answer": "Guest checkout may be available. You can place an order by providing the required contact and delivery details."
+    },
+    {
+        "question": "How do I apply a discount coupon?",
+        "answer": "Enter your coupon code in the Apply Coupon section during checkout and click Apply to receive the discount."
+    },
+    {
+        "question": "How can I delete my account?",
+        "answer": "Contact customer support to request account deletion and follow the required verification process."
+    }
+]
